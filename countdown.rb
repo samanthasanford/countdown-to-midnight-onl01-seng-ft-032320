@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown
+def countdown(number)
   while number > expire_cache_for
   puts "#{number} SECOND(S)!"
   number -= 10 

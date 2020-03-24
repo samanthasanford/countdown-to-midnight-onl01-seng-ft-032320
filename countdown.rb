@@ -1,9 +1,12 @@
 #write your code here
 
 def countdown(number)
-  while number > expire_cache_for
+  while number > 0
   puts "#{number} SECOND(S)!"
-  number -= 10 
+  number -= 1
 end
-puts "HAPPY NEW YEAR!"
+return "HAPPY NEW YEAR!"
+end
+
+def countdown_with_sleep(num)
 end

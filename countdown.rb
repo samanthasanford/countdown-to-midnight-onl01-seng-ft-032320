@@ -14,5 +14,4 @@ def countdown_with_sleep(num)
   num -= 10 
   sleep(num)
 end
-return "HAPPY NEW YEAR!"
 end
